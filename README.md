@@ -69,3 +69,6 @@ The next step of the project would be making it working with the videos/webcams.
 Dataset that we collected: https://drive.google.com/drive/folders/1oMNxLk2BxM7VtyfEp-rn058NpzfCTSef?usp=sharing
 
 Images for testing the model: https://drive.google.com/drive/folders/1d_IFMnZIn72u7tpr6kn7ZUJc6Cq9t3Em?usp=sharing
+
+# Link to youtube video:
+https://youtu.be/SbByNUsxohc
