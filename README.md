@@ -12,7 +12,7 @@ Group: IT-2202
 
 Human pose estimation is a crucial task in computer vision that involves predicting the spatial positions of body joints in an image or video. This technology plays a pivotal role in various applications, including augmented reality, gesture recognition, sports analysis, and human-computer interaction.
 
-img
+![Picture1](https://github.com/bell1ssimo/Humane-pose-classification/assets/151810267/4d1d87be-e760-4de8-96e8-2053d504f80d)
 
 # Problem:
 
@@ -34,7 +34,7 @@ In our project, we used CNN model and our own dataset using images taken from th
 We couldn’t find suitable dataset where the poses are labeled with names, so we collected our own small dataset (also we made rotating, scaling, flipping of img to increase dataset and accuracy of the model)
 We used CNN model, our model defines whether the person in the image is standing or sitting  by implementing opencv to detect keypoints on the body
 Trained the model by keypoints from images processed by opencv. So, the model works with keypoints, not images.
-![Picture2](https://github.com/ikillah/AP-final/assets/146191115/f9a6437b-3e38-4820-b7e7-57497aeb5feb)
+![Picture2](https://github.com/bell1ssimo/Humane-pose-classification/assets/151810267/2e3fd3ab-33de-413f-b276-8f8c10fdc41a)
 
 CNN stands for Convolutional Neural Network, and it is a type of deep neural network commonly used in machine learning for tasks related to computer vision.
 It is particularly effective in image recognition, classification, and other visual tasks due to their ability to automatically learn hierarchical representations from the input data.
@@ -52,11 +52,12 @@ OpenCV (Open Source Computer Vision Library) is an open source computer vision a
 
 Model accuracy
 
-![Picture3](https://github.com/ikillah/AP-final/assets/146191115/c9a26d5b-fd29-4daf-9e69-f06c633243fc)
+![Picture3](https://github.com/bell1ssimo/Humane-pose-classification/assets/151810267/b5df9148-0148-4286-828b-e4b6a06403a7)
+![Picture4](https://github.com/bell1ssimo/Humane-pose-classification/assets/151810267/a24d0722-cdde-4ce7-a9fa-2397cf271759)
+![Picture5](https://github.com/bell1ssimo/Humane-pose-classification/assets/151810267/56d690f2-a4c2-482d-92d5-ac2be5adb524)
 
-![Picture4](https://github.com/ikillah/AP-final/assets/146191115/996f47b9-3e78-481c-963d-31c748b34a50)
 
-![Picture5](https://github.com/ikillah/AP-final/assets/146191115/35fda7de-3b45-4fae-ac78-10e196f100b8)
+
 
 # Discussion:
 
