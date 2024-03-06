@@ -70,5 +70,6 @@ Dataset that we collected: https://drive.google.com/drive/folders/1oMNxLk2BxM7Vt
 
 Images for testing the model: https://drive.google.com/drive/folders/1d_IFMnZIn72u7tpr6kn7ZUJc6Cq9t3Em?usp=sharing
 
-# Link to youtube video:
-https://youtu.be/SbByNUsxohc
+# Video
+
+[![Video](https://img.youtube.com/vi/SbByNUsxohc/0.jpg)](https://www.youtube.com/watch?v=SbByNUsxohc-Y "Advanced Programming Final Project (Human Pose Estimation using OpenCV)")
